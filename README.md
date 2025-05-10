@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=firefox&logoColor=white)](https://enockmecheo.com/)
 
 
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnockMagara&show_icons=true&theme=radical)
