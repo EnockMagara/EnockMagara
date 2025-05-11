@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Enock Mecheo
+# 👋 Hi, I am Enock Mecheo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enock-mecheo-56390b1a6/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@enockmecheo)
