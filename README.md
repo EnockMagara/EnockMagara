@@ -13,6 +13,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enockmagara&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-[📈 GitHub Profile Summary](https://profile-summary-for-github.com/user/enockmagara)
+
 
 
