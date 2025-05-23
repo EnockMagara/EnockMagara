@@ -6,13 +6,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=firefox&logoColor=white)](https://enockmecheo.com/)
 
 ---
+I am passionate about building practical software solutions. I work on web apps, automation tools, and collaborative projects that make tech more accessible.
+I am especially interested in  DevOps and AI-driven solutions.
 
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enockmagara&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enockmagara&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 
 
